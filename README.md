@@ -2,3 +2,4 @@
 
 ## Not serious at all
 
+!["fun"](fun.gif)
